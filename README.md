@@ -49,7 +49,7 @@ pip install llama-cpp-python peft transformers torch firecrawl-py perplexityai o
 ```
 self_improving_phi4/
 ├─ README.md            # This README
-├─ self_improving_phi4.py   # Main code demonstrating the entire flow
+├─ main.py   # Main code demonstrating the entire flow
 └─ .env.example         # Example environment variables file
 ```
 
