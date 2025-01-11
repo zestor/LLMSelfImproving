@@ -47,7 +47,7 @@ pip install llama-cpp-python peft transformers torch firecrawl-py perplexityai o
 ## Repository Structure
 
 ```
-self_improving_phi4/
+LLMSelfImproving/
 ├─ README.md            # This README
 ├─ main.py   # Main code demonstrating the entire flow
 └─ .env.example         # Example environment variables file
